@@ -1,0 +1,18 @@
+{
+  "name": "satur.io/duckdb-clib-windows-amd64",
+  "description": "C libraries for satur.io/duckdb - Windows AMD64",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": [ "define_lib_paths.php" ]
+  },
+  "provide": {
+    "satur.io/duckdb-clib": "*"
+  },
+  "authors": [
+    {
+      "name": "Daniel Hernández-Marín",
+      "email": "dani@satur.io"
+    }
+  ]
+}
