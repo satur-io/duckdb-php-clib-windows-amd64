@@ -7,7 +7,7 @@
     "files": [ "define_lib_paths.php" ]
   },
   "provide": {
-    "satur.io/duckdb-clib": "*"
+    "satur.io/duckdb-clib": "self.version"
   },
   "authors": [
     {
